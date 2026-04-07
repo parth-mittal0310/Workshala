@@ -1,8 +1,18 @@
-# React + Vite
+💡 Vision
+To create a complete ecosystem where education meets opportunity, enabling individuals to grow, learn, and succeed in their careers.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Workshala
+Bridging Education with Career Opportunities
 
-Currently, two official plugins are available:
+Workshala is a platform designed to connect learning with real-world career opportunities. It helps users upskill through educational content while simultaneously exploring job opportunities aligned with their skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Features
+📚 Learning Platform – Access structured educational resources
+💼 Career Opportunities – Discover jobs based on your skills
+🔗 Integrated System – Seamless transition from learning to earning
+⚡ Fast & Modern UI – Built using React + Vite for performance
+🛠️ Tech Stack
+Frontend: React.js
+Build Tool: Vite
+Styling: Tailwind CSS
+Package Manager: npm
