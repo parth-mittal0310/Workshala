@@ -1,5 +1,8 @@
-💡 Vision:
+<img width="1903" height="968" alt="image" src="https://github.com/user-attachments/assets/73e16002-f968-4dc8-8dac-ac59a9ccc5ec" />💡 Vision:
 To Create a Complete Ecosystem where education meets opportunity, enabling individuals to grow, learn, and succeed in their careers.
+
+<img width="1903" height="968" alt="image" src="https://github.com/user-attachments/assets/a7fcf476-bff1-470f-805c-1606cc3606d6" />
+
 
 🚀 Workshala:
 Bridging Education with Career Opportunities
