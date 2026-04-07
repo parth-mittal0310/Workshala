@@ -13,7 +13,7 @@ Workshala is a platform designed to connect learning with real-world career oppo
 ⚡ Fast & Modern UI – Built using React + Vite for performance
 
 🛠️ Tech Stack:
-Frontend: React.js
-Build Tool: Vite
-Styling: Tailwind CSS
+Frontend: React.js,
+Build Tool: Vite,
+Styling: Tailwind CSS,
 Package Manager: npm
