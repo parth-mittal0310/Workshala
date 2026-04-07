@@ -1,5 +1,5 @@
 💡 Vision:
-To create a complete ecosystem where education meets opportunity, enabling individuals to grow, learn, and succeed in their careers.
+To Create a Complete Ecosystem where education meets opportunity, enabling individuals to grow, learn, and succeed in their careers.
 
 🚀 Workshala:
 Bridging Education with Career Opportunities
